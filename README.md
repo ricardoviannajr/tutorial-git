@@ -14,6 +14,7 @@ Nosso primeiro passo é configurar nosso git para conectar com nossa conta aqui 
 Para isso vamos digitar no nosso Git Bash (ou terminal de sua preferência):
 
  git config --global user.name 'seunomedeusuariodogithub'
+ 
 e
 
  git config --global user.email 'seuemaildogithub'
